@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Projects\\Backend.NET\\Projects\\WebAPIDotNet\\wwwroot\\Uploads\\Resumes\\409e7a37-d1a0-42f4-85b8-da8eb8232e92_Green Yellow Simple Discount Voucher Ticket (3).pdf",
+      "PackagePath": "staticwebassets\\Uploads\\Resumes\\409e7a37-d1a0-42f4-85b8-da8eb8232e92_Green Yellow Simple Discount Voucher Ticket (3).pdf"
+    },
+    {
+      "Id": "E:\\Projects\\Backend.NET\\Projects\\WebAPIDotNet\\wwwroot\\Uploads\\Resumes\\52b9d915-020b-4837-b560-4a5fa242f8a3_WhatsApp_Image_2025-07-07_at_22.21.45_e6fe8c86-removebg-preview.png",
+      "PackagePath": "staticwebassets\\Uploads\\Resumes\\52b9d915-020b-4837-b560-4a5fa242f8a3_WhatsApp_Image_2025-07-07_at_22.21.45_e6fe8c86-removebg-preview.png"
+    },
+    {
+      "Id": "E:\\Projects\\Backend.NET\\Projects\\WebAPIDotNet\\wwwroot\\Uploads\\Resumes\\5e2983b1-522d-4402-a45e-bd6b320c7c11_Untitled design.png",
+      "PackagePath": "staticwebassets\\Uploads\\Resumes\\5e2983b1-522d-4402-a45e-bd6b320c7c11_Untitled design.png"
+    },
+    {
+      "Id": "E:\\Projects\\Backend.NET\\Projects\\WebAPIDotNet\\wwwroot\\Uploads\\Resumes\\b30e15e4-ed13-4814-899a-ea7a483b558e_Green Yellow Simple Discount Voucher Ticket (3).pdf",
+      "PackagePath": "staticwebassets\\Uploads\\Resumes\\b30e15e4-ed13-4814-899a-ea7a483b558e_Green Yellow Simple Discount Voucher Ticket (3).pdf"
+    },
+    {
+      "Id": "E:\\Projects\\Backend.NET\\Projects\\WebAPIDotNet\\wwwroot\\page1.html",
+      "PackagePath": "staticwebassets\\page1.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.InternshipApplication.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.InternshipApplication.props",
+      "PackagePath": "build\\InternshipApplication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.InternshipApplication.props",
+      "PackagePath": "buildMultiTargeting\\InternshipApplication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.InternshipApplication.props",
+      "PackagePath": "buildTransitive\\InternshipApplication.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
